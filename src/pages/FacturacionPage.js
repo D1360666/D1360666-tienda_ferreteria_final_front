@@ -19,7 +19,7 @@ export default function FacturacionPage() {
       <br /><br />
       <ListaFactura />
 
-      <label>Total</label>
+      <label>Total</label><br /><br />
 
       <ButtonGroup aria-label="Basic example">
         <Button variant="success">Add</Button>
